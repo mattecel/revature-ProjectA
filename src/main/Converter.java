@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Converter {
 	
-	private static void getQuantity(int unitName) {1
+	private static void getQuantity(int unitName){
 		Scanner q = new Scanner(System.in);
 		double userInput = q.nextDouble();
 		
